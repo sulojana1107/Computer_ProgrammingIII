@@ -16,9 +16,12 @@ configure username and password
 ================================
 git config --global user.name githubusername
 git config --global user.password githubpassword
-==================================
 new branches added
 Team Members
+===============
 Software requirements
+=======================
 Objectives
+============
+
 
