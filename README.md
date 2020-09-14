@@ -19,6 +19,9 @@ git config --global user.password githubpassword
 
 Team members
 ==============
+Member A
+Member B
+Member C
 Software Requirements
 ======================
 Objectives
